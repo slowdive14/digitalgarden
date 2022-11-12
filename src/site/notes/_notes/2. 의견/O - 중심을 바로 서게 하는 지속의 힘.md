@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/2/o/","dgShowBacklinks":true,"dgShowLocalGraph":true}
+{"dg-publish":true,"permalink":"/notes/2/o/"}
 ---
 
 ## 성공하면 잘 산 것일까?
