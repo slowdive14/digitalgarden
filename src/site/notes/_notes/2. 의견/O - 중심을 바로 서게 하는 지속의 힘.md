@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"/1","permalink":"/1/"}
+{"dg-publish":true,"dg-permalink":"/1","permalink":"/1/","dgShowBacklinks":true,"dgShowLocalGraph":true}
 ---
 
 
